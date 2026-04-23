@@ -19,10 +19,11 @@ This dashboard uses Power Query for data transformation, a structured data model
 
 🛠️ Tech Stack & Tools
 
-# Tool / Technology                      Purpose
-Power BI Desktop                         Dashboard development & report publishing
-DAX (Data Analysis Expressions)          Custom measures, KPIs, and calculated columns
-Power Query (M Language)                 Data ingestion, transformation, and cleansing
-CSV / Excel                              Source data format
-GitHub                                   Version control and project collaboration
+# |Tool / Technology |                   Purpose |
+  |:--- |:--- |
+|**Power BI Desktop**|                   Dashboard development & report publishing |
+|**DAX (Data Analysis Expressions)**|    Custom measures, KPIs, and calculated columns |
+|**Power Query (M Language)**|           Data ingestion, transformation, and cleansing |
+|**CSV / Excel**|                        Source data format |
+|**GitHub**|                             Version control and project collaboration |
 
