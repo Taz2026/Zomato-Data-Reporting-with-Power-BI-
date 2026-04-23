@@ -81,6 +81,63 @@ The model follows a **Star Schema** design:
 | `Top Cuisine by Votes` | Identifies the cuisine with the highest vote share using `TOPN` + `RANKX` |
 | `Rating vs Cost Correlation` | Calculated column comparing cost tier against rating band for scatter analysis |
 
+📊 Dashboard Features & Visuals
+
+**Report Pages**
+
+1. 🏠 Executive Overview
+
+* **KPI Cards**: Total Restaurants, Average Rating, Total Votes, Average Cost for Two
+* **Donut Chart**: Online Delivery vs. Dine-in split
+* **Bar Chart**: Top 10 Cities by Restaurant Count
+* **Slicers**: City, Cuisine Type, Rating Band, Cost Category
+
+2. 🌆 City-Level Analysis
+
+* **Map Visual**: Restaurant density by city (bubble size = vote count)
+* **Column Chart**: Average Rating by City
+* **Matrix Table**: City vs. Cuisine cross-tabulation with conditional formatting
+* **Drill-through**: Navigate from city to individual restaurant details
+
+3. 🍜 Cuisine Breakdown
+
+* **Horizontal Bar Chart**: Top 15 Cuisines by Total Votes
+* **Treemap**: Cuisine market share by restaurant count
+* **Line & Clustered Column**: Average Cost vs. Average Rating by Cuisine
+
+4. 💰 Pricing & Ratings Deep Dive
+
+* **Scatter Chart**: Average Cost for Two vs. Aggregate Rating
+* **Funnel Chart**: Restaurant count by Rating Text category
+* **Card Visuals**: Budget, Mid-Range, and Premium segment KPIs
+
+💡 Key Insights & Findings
+
+* 🏙️ **Mumbai, Delhi, and Bangalore** account for over 60% of all restaurants in the dataset, with Delhi having the highest average votes per restaurant.
+* 🍛 **North Indian** cuisine is the most prevalent across metro cities, appearing in over 35% of restaurant menus.
+* ⭐ Restaurants with **online delivery** enabled have, on average, **22% more votes** than offline-only restaurants.
+* 💸 **Mid-range restaurants** (£500–£1500) consistently outperform the Budget and Premium tiers in aggregate ratings, suggesting the best perceived value.
+* 📋 Only **12% of restaurants** offer table booking, yet they carry an average rating **0.4 points higher** than those without.
+* 🌟 The **Excellent** rating band (≥ 4.5) accounts for just 8% of all restaurants, concentrated heavily in Premium cost categories.
+
+🗂️ Project Structure
+
+```text
+Zomato-Data-Reporting-with-Power-BI/
+├── dataset/
+│   ├── zomato.csv
+│   └── Country-Code.xlsx
+├── screenshots/
+│   ├── 01_executive_overview.png
+│   ├── 02_city_analysis.png
+│   └── 03_cuisine_breakdown.png
+├── Zomato_Data_Report.pbix
+└── README.md
+
+
+
+
+
 
 
 
