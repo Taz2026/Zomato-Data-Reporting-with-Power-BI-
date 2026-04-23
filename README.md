@@ -16,3 +16,13 @@ This dashboard uses Power Query for data transformation, a structured data model
 * Evaluate the influence of table booking availability on restaurant performance.
 * Segment restaurants into cost categories (Budget, Mid-Range, Premium) for pricing analysis.
 * Track voting trends as a proxy for customer engagement and restaurant visibility.
+
+🛠️ Tech Stack & Tools
+
+# Tool / Technology                      Purpose
+Power BI Desktop                         Dashboard development & report publishing
+DAX (Data Analysis Expressions)          Custom measures, KPIs, and calculated columns
+Power Query (M Language)                 Data ingestion, transformation, and cleansing
+CSV / Excel                              Source data format
+GitHub                                   Version control and project collaboration
+
