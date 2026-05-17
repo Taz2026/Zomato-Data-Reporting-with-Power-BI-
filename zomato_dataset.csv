@@ -1,0 +1,81 @@
+No.,Restaurant Name,Restaurant Type,Rate (out of 5),Num of ratings,Avg cost (two people),Online_order,Table Booking,Cuisines Type,Area,Local Address
+1,Jalsa,Casual Dining,4.1,775,800,Yes,Yes,North Indian | Mughlai | Chinese,Banashankari,942/A 29th Main Road Banashankari Stage 2 Banashankari Bangalore
+2,Spice Elephant,Casual Dining,4.1,787,800,Yes,No,Chinese | North Indian | Thai,Banashankari,2nd Floor 80 Feet Road Near Big Bazaar Banashankari Stage 1 Banashankari Bangalore
+3,San Churro Cafe,Cafe | Bakery,3.8,918,800,Yes,No,Cafe | Mexican | Italian,Banashankari,No 167 Sri Ram Complex Outer Ring Road Banashankari Stage 2 Banashankari Bangalore
+4,Addhuri Udupi Bhojana,Quick Bites,3.7,88,300,No,No,South Indian,Banashankari,1st Floor Annakuteera Annex 3rd Block Banashankari Stage 1 Banashankari Bangalore
+5,Grand Village,Casual Dining,3.8,166,600,No,No,North Indian | Rajasthani,Banashankari,10 3rd B Cross Outer Ring Road Near Abhilash Theater Banashankari Bangalore
+6,Maharaja Deluxe,Fine Dining,4.3,420,1500,Yes,Yes,Mughlai | North Indian | Biryani,Indiranagar,100 Feet Road Indiranagar Bangalore
+7,The Biryani House,Quick Bites,4,652,400,Yes,No,Biryani | North Indian,Koramangala,3rd Block Koramangala Bangalore
+8,Pizza Palace,Cafe | Fast Food,3.5,320,600,Yes,No,Pizza | Italian | Fast Food,Koramangala,1st Block 80 Feet Road Koramangala Bangalore
+9,Green Leaf,Casual Dining,4.2,540,700,Yes,Yes,South Indian | Kerala,Jayanagar,4th Block Jayanagar Bangalore
+10,Street Food Corner,Street Food,3.6,210,200,No,No,South Indian | Street Food,HSR Layout,Sector 2 HSR Layout Bangalore
+11,The Coastal Kitchen,Fine Dining,4.4,890,1800,Yes,Yes,Seafood | Coastal | Goan,MG Road,Brigade Road MG Road Bangalore
+12,Chai Point,Cafe,3.9,430,250,Yes,No,Beverages | Cafe | Snacks,Whitefield,ITPL Main Road Whitefield Bangalore
+13,Sushi World,Casual Dining,4.1,320,1200,Yes,Yes,Japanese | Chinese | Asian,Indiranagar,Double Road Indiranagar Bangalore
+14,Dakshin Express,Quick Bites,3.7,180,350,Yes,No,South Indian | Kerala,Marathahalli,Outer Ring Road Marathahalli Bangalore
+15,Kebab Factory,Casual Dining,4,650,900,Yes,Yes,Mughlai | Kebabs | North Indian,Koramangala,5th Block Koramangala Bangalore
+16,Truffles,Casual Dining,4.2,2400,600,Yes,No,American | Burger | Continental,Koramangala,7th Block Koramangala Bangalore
+17,Empire Restaurant,Casual Dining,3.9,3200,400,Yes,No,North Indian | Biryani | Mughlai,Church Street,Church Street MG Road Bangalore
+18,The Egg Factory,Casual Dining,4,1100,500,Yes,No,Continental | North Indian | Italian,HSR Layout,Sector 6 HSR Layout Bangalore
+19,Meghana Foods,Casual Dining,4.1,4200,400,Yes,No,Biryani | South Indian | North Indian,Koramangala,1st Block Koramangala Bangalore
+20,Corner House Ice Cream,Desserts,4.4,1800,300,Yes,No,Desserts | Ice Cream | Beverages,Jayanagar,8th Block Jayanagar Bangalore
+21,Brahmin's Coffee Bar,Quick Bites,4.4,1200,100,No,No,South Indian | Beverages,Basavanagudi,Basavanagudi Main Road Bangalore
+22,Nagarjuna,Casual Dining,4,980,500,Yes,No,Andhra | South Indian | Biryani,Residency Road,Residency Road MG Road Bangalore
+23,Barbeque Nation,Casual Dining,4.2,3800,1200,Yes,Yes,North Indian | Continental | Asian,Whitefield,EPIP Zone Whitefield Bangalore
+24,The Fat Penguin,Bar,3.8,560,1200,Yes,No,Continental | American | Italian,Indiranagar,100 Feet Road Indiranagar Bangalore
+25,Lakeview Milk Bar,Cafe,4.1,420,300,No,No,Beverages | Desserts | Snacks,Ulsoor,Ulsoor Lake Road Ulsoor Bangalore
+26,Hole in the Wall Cafe,Cafe,4,850,600,Yes,No,Continental | Italian | Cafe,Koramangala,6th Block Koramangala Bangalore
+27,Shivaji Military Hotel,Quick Bites,4.3,1650,150,No,No,South Indian | Andhra,Jayanagar,5th Block Jayanagar Bangalore
+28,Punjab Grill,Fine Dining,4.2,430,2000,Yes,Yes,North Indian | Mughlai | Tandoor,UB City,UB City Mall Vittal Mallya Road Bangalore
+29,Mom's Kitchen,Home Food,4.1,280,500,Yes,No,North Indian | Home Food | Continental,Bellandur,Outer Ring Road Bellandur Bangalore
+30,Toit Brewpub,Bar | Pub,4.3,5500,1500,Yes,Yes,Continental | Pub Food | Pizza,Indiranagar,100 Feet Road Indiranagar Bangalore
+31,CTR Sri Sagar,Quick Bites,4.4,2100,100,No,No,South Indian | Beverages,Malleshwaram,Malleshwaram Circle Bangalore
+32,Vidyarthi Bhavan,Quick Bites,4.4,3200,100,No,No,South Indian,Basavanagudi,Gandhi Bazaar Basavanagudi Bangalore
+33,The Permit Room,Bar | Pub,4.1,1200,1800,Yes,No,Fusion | Continental | South Indian,Indiranagar,Lane 5 Indiranagar Bangalore
+34,Social,Bar | Cafe,3.9,2400,1000,Yes,No,Continental | American | Asian,Koramangala,100 Feet Road Koramangala Bangalore
+35,Hammered,Bar | Casual Dining,4,890,1400,Yes,No,Continental | American | Finger Food,HSR Layout,Sector 1 HSR Layout Bangalore
+36,Cafe Azzure,Fine Dining,4.5,320,2500,Yes,Yes,Continental | Italian | Mediterranean,Lavelle Road,Lavelle Road MG Road Bangalore
+37,Delhi Highway,Casual Dining,3.9,480,700,Yes,No,North Indian | Mughlai | Fast Food,Marathahalli,Marathahalli Main Road Bangalore
+38,The Black Pearl,Bar | Fine Dining,4.2,670,2000,Yes,Yes,Seafood | Continental | Mediterranean,Whitefield,ITPL Road Whitefield Bangalore
+39,A2B - Adyar Ananda Bhavan,Quick Bites,3.9,760,400,Yes,No,South Indian | Sweets | Desserts,Jayanagar,11th Main Jayanagar Bangalore
+40,Chutney Chang,Casual Dining,4,540,600,Yes,No,South Indian | North Indian | Chinese,Electronic City,Phase 1 Electronic City Bangalore
+41,Absolute Barbeque,Casual Dining,4.1,2200,1100,Yes,Yes,North Indian | Continental | Asian,Whitefield,Phoenix Marketcity Whitefield Bangalore
+42,Byg Brewski Brewing Company,Bar | Pub,4.3,4800,1600,Yes,No,Continental | Pub Food | Pizza,Hennur Road,Hennur Road Bangalore
+43,Eat Street,Casual Dining,3.8,390,600,Yes,No,North Indian | Chinese | South Indian,Marathahalli,Karthik Nagar Marathahalli Bangalore
+44,Hotel Darshini,Quick Bites,3.6,260,200,No,No,South Indian | Tiffins,Vijayanagar,Vijayanagar Main Road Bangalore
+45,Flechazo,Casual Dining,4.1,750,800,Yes,Yes,North Indian | Mughlai | Mediterranean,Bannerghatta Road,Bannerghatta Road Bangalore
+46,The Humming Tree,Bar | Pub,3.9,420,1200,Yes,No,Continental | Pub Food | Snacks,Indiranagar,12th Main Indiranagar Bangalore
+47,Onesta,Casual Dining,4.2,3100,600,Yes,No,Pizza | Italian | Continental,Koramangala,4th Block Koramangala Bangalore
+48,Udupi Palace,Quick Bites,3.8,540,300,Yes,No,South Indian | Tiffins | Sweets,Malleshwaram,8th Cross Malleshwaram Bangalore
+49,Windmills Craftworks,Bar | Pub,4.1,1800,1400,Yes,Yes,Continental | American | Pub Food,Whitefield,Whitefield Main Road Bangalore
+50,The Only Place,Casual Dining,4.2,1400,1000,Yes,Yes,American | Continental | Steakhouse,MG Road,Museum Road MG Road Bangalore
+51,Pita Pit,Quick Bites,3.9,310,500,Yes,No,Mediterranean | Continental | Wraps,Koramangala,6th Block Koramangala Bangalore
+52,Mast Kalandar,Casual Dining,3.7,420,400,Yes,No,North Indian | South Indian | Biryani,Indiranagar,Old Madras Road Indiranagar Bangalore
+53,Brik Oven,Casual Dining,4,680,800,Yes,No,Pizza | Continental | Italian,HSR Layout,27th Main HSR Layout Bangalore
+54,Hoot,Cafe | Bar,4.1,920,900,Yes,No,Continental | American | Cafe,Koramangala,3rd Block Koramangala Bangalore
+55,Three Dots And A Dash,Casual Dining | Bar,4.2,1100,1500,Yes,Yes,Sushi | Japanese | Asian,Indiranagar,12th Main 1st Stage Indiranagar Bangalore
+56,Pecos,Bar | Casual Dining,4,2800,800,Yes,No,Continental | American | Tex-Mex,MG Road,Rest House Road MG Road Bangalore
+57,Rajdhani,Casual Dining,4.1,680,700,Yes,No,Rajasthani | Gujarati | North Indian,Koramangala,Forum Mall Koramangala Bangalore
+58,Punjabi By Nature,Casual Dining,3.9,450,1000,Yes,Yes,North Indian | Mughlai | Punjabi,Whitefield,The Forum Value Mall Whitefield Bangalore
+59,Mainland China,Fine Dining,4,980,1800,Yes,Yes,Chinese | Asian | Dim Sum,UB City,UB City Mall Vittal Mallya Road Bangalore
+60,The Gateway Hotel,Fine Dining,4.3,580,3500,Yes,Yes,Continental | North Indian | Mughlai,Residency Road,Residency Road Bangalore
+61,Farzi Cafe,Fine Dining | Bar,4.2,1650,2000,Yes,Yes,North Indian | Continental | Fusion,MG Road,1 MG Mall MG Road Bangalore
+62,Din Tai Fung,Fine Dining,4.4,740,2500,Yes,Yes,Chinese | Dim Sum | Asian,UB City,UB City Mall Vittal Mallya Road Bangalore
+63,House of Trance,Bar | Pub,3.8,630,1200,Yes,No,Continental | Snacks | Beverages,Whitefield,ITPL Road Whitefield Bangalore
+64,Toscano,Fine Dining,4.3,820,2800,Yes,Yes,Italian | Mediterranean | Continental,Lavelle Road,The Chancery Pavilion Residency Road Bangalore
+65,The Fisherman's Wharf,Casual Dining,4.1,960,1200,Yes,Yes,Seafood | Coastal | Goan,Koramangala,7th Block Koramangala Bangalore
+66,Cafe Coffee Day,Cafe,3.5,1200,400,Yes,No,Cafe | Beverages | Snacks,Multiple Areas,Across Bangalore
+67,Starbucks,Cafe,3.9,2800,600,Yes,No,Cafe | Beverages | Snacks,MG Road,Ground Floor MG Road Bangalore
+68,McDonald's,Fast Food,3.6,3200,350,Yes,No,Fast Food | Burgers | American,Koramangala,Forum Mall Koramangala Bangalore
+69,Domino's Pizza,Fast Food,3.5,4100,500,Yes,No,Pizza | Fast Food | Italian,Multiple Areas,Across Bangalore
+70,KFC,Fast Food,3.7,3800,400,Yes,No,Fast Food | Burgers | American,Multiple Areas,Across Bangalore
+71,Karavalli,Fine Dining,4.5,980,3000,Yes,Yes,Seafood | Coastal | South Indian,Residency Road,Gateway Hotel Residency Road Bangalore
+72,13th Floor,Bar | Fine Dining,4.2,1400,2500,Yes,Yes,Continental | North Indian | Asian,MG Road,Ivory Tower MG Road Bangalore
+73,Olive Beach,Fine Dining,4.3,1600,3200,Yes,Yes,Mediterranean | Continental | Italian,Indiranagar,Old Airport Road Indiranagar Bangalore
+74,Communiti - JW Marriott,Fine Dining,4.4,720,4000,Yes,Yes,International | Continental | Buffet,Vittal Mallya Road,JW Marriott Hotel Vittal Mallya Road Bangalore
+75,Shiro,Fine Dining | Bar,4.1,1100,2500,Yes,Yes,Japanese | Asian | Pan-Asian,Vittal Mallya Road,UB City Vittal Mallya Road Bangalore
+76,Rim Naam,Fine Dining,4.2,430,3500,Yes,Yes,Thai | Asian | Continental,Indiranagar,The Oberoi Hotel Indiranagar Bangalore
+77,La Brasserie - The Ritz Carlton,Fine Dining,4.5,390,5000,Yes,Yes,Continental | French | International,MG Road,The Ritz Carlton MG Road Bangalore
+78,Yauatcha,Fine Dining,4.3,870,3000,Yes,Yes,Chinese | Dim Sum | Asian,UB City,UB City Mall Vittal Mallya Road Bangalore
+79,Indian Accent,Fine Dining,4.5,620,4500,Yes,Yes,Indian | Fusion | Modern Indian,MG Road,MG Road Bangalore
+80,Monkey Bar,Bar | Casual Dining,4,2100,900,Yes,No,Continental | American | Gastropub,Indiranagar,Wood Street Indiranagar Bangalore
